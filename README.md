@@ -1,10 +1,3 @@
-# 📲 HOW TO GET SOCIAL MEDIA FOLLOWERS (TIKTOK, INSTAGRAM, DISCORD, YOUTUBE, SPOTIFY, TWITCH, TWITTER, TELGRAM):
-🔗 **https://www.youtube.com/watch?v=Lr7MDkpp2b4**
-
-### ➡️ Or if you want to skip the video, you can directly join the Discord server: 
-
-📥 **https://discord.gg/V2QxwJkbMn**
-
 # 🛡️ Profile Badges
 
 This repository includes a collection of every single badge on GitHub, and how to obtain each one of them. Some of them are obtainable, not obtainable, or still in beta testing. This repository orders the badges from `Very Easy` to `Easy` to `Medium` and finally `Hard`.
@@ -85,6 +78,4 @@ Only 2 achievements have had their name altered in all of GitHub's History. Thes
 + Mars 2020 Contributor
 ```
 
-# 📋 Credits
-- Massive credit goes to @Schweinepriester for the high quality images for each badge, labels, information for each badge, and the inspiration to make this repository
-- Credit to @drknzz for the skin tone images, information about it too & inspiration
+
